@@ -1,0 +1,8 @@
+# see .envrc.exapmle and use `make envrc`
+.envrc
+Makefile.venv
+.venv
+
+# pytest
+__pycache__
+pytestdebug.log
