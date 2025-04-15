@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  role_name: freeipa
+  namespace: sv0
+  author: slavik@svyrydiuk.eu
+  description: Install FreeIPA server
+  company: Svyrydiuk OSVC
+  license: proprietary
+  min_ansible_version: "2.18"
+
+  platforms:
+    - name: Rocky
+      versions:
+        - "9.2"
